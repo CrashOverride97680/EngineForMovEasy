@@ -1,0 +1,18 @@
+/*
+	CSS_FOR_GAME
+*/
+
+body{
+	font-family: Monospace;
+}
+.container {
+	border: dotted;
+	width: 510px;
+	background-color:#80ff80;
+}
+.mappa {
+	border:dotted;
+}
+#sprite{
+	position:absolute;
+}
